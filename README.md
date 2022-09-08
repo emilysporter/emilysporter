@@ -21,7 +21,7 @@ Additionaly, I utilize my Github as a deliverables catalog.
 </code></pre>
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<img alt="Girl Coding" src="https://media.giphy.com/media/3osxYc2axjCJNsCXyE/giphy.gif"  width="200" height="200" align="left"/>
+<img alt="Girl Coding" src="https://media.giphy.com/media/3osxYc2axjCJNsCXyE/giphy.gif"  width="200" height="200" align="right"/>
 
  <!---
  (https://media.giphy.com/media/TncmRRvEGVoVcHgaAb/giphy.gif)
