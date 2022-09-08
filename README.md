@@ -34,9 +34,13 @@ Additionaly, I utilize my Github as a deliverables catalog.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <h3 align="center"> 
+<!---
 <a href="    "><img alt="<3" src="http://ForTheBadge.com/images/badges/built-with-love.svg ">
-
+--->
 <!---
 https://ivanvlademirs.github.io/Digital_Career_Portfolio/
 --->
 </h3>
+
+
+
