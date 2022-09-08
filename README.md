@@ -23,6 +23,10 @@ Additionaly, I utilize my Github as a deliverables catalog.
 
 <img alt="Girl Coding" src="https://media.giphy.com/media/3osxYc2axjCJNsCXyE/giphy.gif" align="right"/>
 
+ <!---
+ (https://media.giphy.com/media/TncmRRvEGVoVcHgaAb/giphy.gif)
+ (https://media.giphy.com/media/dxNq4O1v1wH2CcfnrK/giphy.gif)
+  --->
 
 | 🔭 | About Me | Description  |
 | --------|-----------| ----------- |
