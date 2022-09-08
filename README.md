@@ -21,7 +21,7 @@ Additionaly, I utilize my Github as a deliverables catalog.
 </code></pre>
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<img alt="Girl Coding" <iframe src="https://giphy.com/embed/3osxYc2axjCJNsCXyE" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/animation-ryan-seslow-3osxYc2axjCJNsCXyE">via GIPHY</a></p>" align="right"/>
+<img alt="Girl Coding" src="https://media.giphy.com/media/3osxYc2axjCJNsCXyE/giphy.gif" align="right"/>
 
 
 | 🔭 | About Me | Description  |
