@@ -21,7 +21,7 @@ Additionaly, I utilize my Github as a deliverables catalog.
 </code></pre>
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<img alt="Night Coding" src="https://tenor.com/view/yes-yay-happy-gif-6007757" align="right"/>
+<img alt="Girl Coding" src="https://giphy.com/gifs/animation-ryan-seslow-3osxYc2axjCJNsCXyE" align="right"/>
 
 
 | 🔭 | About Me | Description  |
