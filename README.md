@@ -26,6 +26,7 @@ Additionaly, I utilize my Github as a deliverables catalog.
  <!---
  (https://media.giphy.com/media/TncmRRvEGVoVcHgaAb/giphy.gif)
  (https://media.giphy.com/media/dxNq4O1v1wH2CcfnrK/giphy.gif)
+ (https://media.giphy.com/media/FSzLVme5Y3n3LMOiqP/giphy.gif)
   --->
 
 | 🔭 | About Me | Description  |
