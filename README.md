@@ -31,11 +31,14 @@ Additionaly, I utilize my Github as a deliverables catalog.
 
 | 🔭 | About Me | Description  |
 | --------|-----------| ----------- |
-| 📚 | **What I’m learning**: | [*View My Roadmap (on Notion)*](https://www.notion.so/2e367c92430d46fe860edbeb8bfec2d2?v=3d5d44dde3cc4264952962fb016e6788)|
+| 📚 | **What I’m learning**: | [*View My Roadmap (on Notion)*](https://iridescent-nail-e3a.notion.site/2e367c92430d46fe860edbeb8bfec2d2?v=3d5d44dde3cc4264952962fb016e6788)|
 | 👯 | **Collaborate with me on**: | *Data Science Projects* |
 | 🤔 | **Help me with**: | *Cloud Analytics* |
 | ⚡  | **Fun fact**: | I can sing in Latin! 🎤|
 
+<!---
+https://www.notion.so/2e367c92430d46fe860edbeb8bfec2d2?v=3d5d44dde3cc4264952962fb016e6788
+--->
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <h3 align="center"> 
